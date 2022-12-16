@@ -1,1 +1,1 @@
-# CS543-ComputerVision-MP5
+# CS543-Computer-Vision-MP5
